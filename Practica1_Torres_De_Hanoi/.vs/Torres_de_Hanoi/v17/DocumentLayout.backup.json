@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\torres_de_hanoi\\hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\torres_de_hanoi\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|c:\\users\\alex\\desktop\\practica1_alexandru_josue\\torres-de-hanoi\\torres_de_hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\torres_de_hanoi\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\Torres_de_Hanoi\\Program.cs",
+              "RelativeDocumentMoniker": "Torres_de_Hanoi\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\Torres_de_Hanoi\\Program.cs",
+              "RelativeToolTip": "Torres_de_Hanoi\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:01:40.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\Torres_de_Hanoi\\Pila.cs",
+              "RelativeDocumentMoniker": "Torres_de_Hanoi\\Pila.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\Torres_de_Hanoi\\Pila.cs",
+              "RelativeToolTip": "Torres_de_Hanoi\\Pila.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:01:11.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hanoi.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\Torres_de_Hanoi\\Hanoi.cs",
+              "RelativeDocumentMoniker": "Torres_de_Hanoi\\Hanoi.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\Torres_de_Hanoi\\Hanoi.cs",
+              "RelativeToolTip": "Torres_de_Hanoi\\Hanoi.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwFIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:00:15.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Disco.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\Torres_de_Hanoi\\Disco.cs",
+              "RelativeDocumentMoniker": "Torres_de_Hanoi\\Disco.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Practica1_Alexandru_Josue\\torres-de-hanoi\\Torres_de_Hanoi\\Disco.cs",
+              "RelativeToolTip": "Torres_de_Hanoi\\Disco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:59:37.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

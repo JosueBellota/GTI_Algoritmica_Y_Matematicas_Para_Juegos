@@ -1,0 +1,21 @@
+C:\Users\Alex\Source\Repos\torres-de-hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe
+C:\Users\Alex\Source\Repos\torres-de-hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe.config
+C:\Users\Alex\Source\Repos\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.AssemblyReference.cache
+C:\Users\Alex\Source\Repos\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.exe
+C:\Users\Alex\Source\Repos\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.pdb
+C:\Users\Alex\Source\Repos\torres-de-hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.pdb
+C:\Users\josue\OneDrive\Documentos\JBArchives\UPVInteractivas\Segundo\Proyecto Video Juegos\Practica\Alex\torres-de-hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe.config
+C:\Users\josue\OneDrive\Documentos\JBArchives\UPVInteractivas\Segundo\Proyecto Video Juegos\Practica\Alex\torres-de-hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe
+C:\Users\josue\OneDrive\Documentos\JBArchives\UPVInteractivas\Segundo\Proyecto Video Juegos\Practica\Alex\torres-de-hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.pdb
+C:\Users\josue\OneDrive\Documentos\JBArchives\UPVInteractivas\Segundo\Proyecto Video Juegos\Practica\Alex\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.AssemblyReference.cache
+C:\Users\josue\OneDrive\Documentos\JBArchives\UPVInteractivas\Segundo\Proyecto Video Juegos\Practica\Alex\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Documentos\JBArchives\UPVInteractivas\Segundo\Proyecto Video Juegos\Practica\Alex\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.exe
+C:\Users\josue\OneDrive\Documentos\JBArchives\UPVInteractivas\Segundo\Proyecto Video Juegos\Practica\Alex\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.pdb
+C:\Users\Alex\Desktop\Practica1_Alexandru_Josue\torres-de-hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe.config
+C:\Users\Alex\Desktop\Practica1_Alexandru_Josue\torres-de-hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe
+C:\Users\Alex\Desktop\Practica1_Alexandru_Josue\torres-de-hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.pdb
+C:\Users\Alex\Desktop\Practica1_Alexandru_Josue\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Practica1_Alexandru_Josue\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Practica1_Alexandru_Josue\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.exe
+C:\Users\Alex\Desktop\Practica1_Alexandru_Josue\torres-de-hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.pdb
